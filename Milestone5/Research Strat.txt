@@ -1,0 +1,7 @@
+10/8/2019
+
+Over the course of my time programming I have realized that the best method in trying to figure out how to fix/debug code is to use the code documentation such as https://docs.unity3d.com/ScriptReference or using stack overflow. As an example, in my space shooter game I wanted to find all objects on stage with a specific tag. I searched the Unity Documentation and was brought to https://docs.unity3d.com/ScriptReference/GameObject.FindGameObjectsWithTag.html. If this doesn't solve my problem either StackOverflow or Youtube tutorial videos can also be a good reference. I have been coding on and off since 2015 so I am familiar what to do when I run into problems.
+
+12/13/2019
+
+During the course of this semester my strategies has not changed much. When I am stuck on on issue I still resort to either Youtube, the unity script references, or a Youtube video. Although I have started to ask others if I run into an issue as well. In the future, I hope to continue my current methods and hope to learn more from others as well
